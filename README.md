@@ -1,4 +1,4 @@
 # Git-dema
 for me
 <br>
-author - Aditya Bandhanwar
+author - Aditya Prakash Bandhanwar
